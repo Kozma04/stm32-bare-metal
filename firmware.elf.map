@@ -1,0 +1,549 @@
+
+Discarded input sections
+
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .text          0x00000000        0x0 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .data          0x00000000        0x0 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .bss           0x00000000        0x0 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .data.NVIC_ISER_BASE
+                0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .data.NVIC_ICER_BASE
+                0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .data.NVIC_ISPR_BASE
+                0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .data.NVIC_ICPR_BASE
+                0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .data.NVIC_IABR_BASE
+                0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .data.NVIC_IPR_BASE
+                0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .data.NVIC_STIR
+                0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .bss.g_time_cnt_ms
+                0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .text.time_ms  0x00000000       0x18 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .text.time_delay
+                0x00000000       0x34 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .group         0x00000000        0xc C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .text          0x00000000        0x0 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .data          0x00000000        0x0 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .bss           0x00000000        0x0 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .data.RCC      0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .data.NVIC_ISER_BASE
+                0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .data.NVIC_ICER_BASE
+                0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .data.NVIC_ISPR_BASE
+                0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .data.NVIC_ICPR_BASE
+                0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .data.NVIC_IABR_BASE
+                0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .data.NVIC_IPR_BASE
+                0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .data.NVIC_STIR
+                0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .data.SYST     0x00000000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .text._handle_dummy
+                0x00000000        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .debug_macro   0x00000000      0xac6 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .debug_macro   0x00000000       0x22 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .debug_macro   0x00000000       0x8e C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .debug_macro   0x00000000       0x51 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .debug_macro   0x00000000      0x103 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .debug_macro   0x00000000       0x6a C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .debug_macro   0x00000000      0x1df C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .debug_macro   0x00000000       0x22 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .debug_macro   0x00000000       0x10 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00010000         xr
+SRAM1            0x20010000         0x0003c000         xrw
+SRAM2            0x2004c000         0x00004000         xrw
+DTCM             0x20000000         0x00010000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+LOAD C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+LOAD C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/13.2 Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/13.2 Rel1/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v7e-m+fp/hard\libgcc.a
+                0x20050000                        _estack = (ORIGIN (SRAM2) + LENGTH (SRAM2))
+
+.vectors        0x08000000      0x1c8
+ *(.vectors)
+ .vectors       0x08000000      0x1c8 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+                0x08000000                tab
+
+.text           0x080001c8      0x8e4
+ *(.text*)
+ .text.rcc_apb2_set
+                0x080001c8       0x74 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .text.rcc_ahb1_set
+                0x0800023c       0x74 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .text.gpio_set_mode
+                0x080002b0       0x58 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .text.gpio_toggle
+                0x08000308       0x44 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .text.systick_set_clk_src
+                0x0800034c       0x30 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .text.systick_enable_tickint
+                0x0800037c       0x38 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .text.systick_enable
+                0x080003b4       0x3c C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .text.systick_set_reload
+                0x080003f0       0x24 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .text.time_init
+                0x08000414       0x2a C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+                0x08000414                time_init
+ *fill*         0x0800043e        0x2 
+ .text.main     0x08000440       0x40 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+                0x08000440                main
+ .text._reset   0x08000480       0x44 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+                0x08000480                _reset
+ .text._handle_nmi
+                0x080004c4        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080004c4                _handle_nmi
+ .text._handle_hardfault
+                0x080004d2        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080004d2                _handle_hardfault
+ .text._handle_memmanage_fault
+                0x080004e0        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080004e0                _handle_memmanage_fault
+ .text._handle_busfault
+                0x080004ee        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080004ee                _handle_busfault
+ .text._handle_usagefault
+                0x080004fc        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080004fc                _handle_usagefault
+ .text._handle_svcall
+                0x0800050a        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800050a                _handle_svcall
+ .text._handle_debugmonitor
+                0x08000518        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000518                _handle_debugmonitor
+ .text._handle_pendsv
+                0x08000526        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000526                _handle_pendsv
+ .text._handle_systick
+                0x08000534       0x1c C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000534                _handle_systick
+ .text._handle_wwdg
+                0x08000550        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000550                _handle_wwdg
+ .text._handle_pvd
+                0x0800055e        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800055e                _handle_pvd
+ .text._handle_tamp_stamp
+                0x0800056c        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800056c                _handle_tamp_stamp
+ .text._handle_rtc_wkup
+                0x0800057a        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800057a                _handle_rtc_wkup
+ .text._handle_flash
+                0x08000588        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000588                _handle_flash
+ .text._handle_rcc
+                0x08000596        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000596                _handle_rcc
+ .text._handle_exti0
+                0x080005a4        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080005a4                _handle_exti0
+ .text._handle_exti1
+                0x080005b2        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080005b2                _handle_exti1
+ .text._handle_exti2
+                0x080005c0        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080005c0                _handle_exti2
+ .text._handle_exti3
+                0x080005ce        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080005ce                _handle_exti3
+ .text._handle_exti4
+                0x080005dc        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080005dc                _handle_exti4
+ .text._handle_dma1_stream0
+                0x080005ea        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080005ea                _handle_dma1_stream0
+ .text._handle_dma1_stream1
+                0x080005f8        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080005f8                _handle_dma1_stream1
+ .text._handle_dma1_stream2
+                0x08000606        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000606                _handle_dma1_stream2
+ .text._handle_dma1_stream3
+                0x08000614        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000614                _handle_dma1_stream3
+ .text._handle_dma1_stream4
+                0x08000622        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000622                _handle_dma1_stream4
+ .text._handle_dma1_stream5
+                0x08000630        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000630                _handle_dma1_stream5
+ .text._handle_dma1_stream6
+                0x0800063e        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800063e                _handle_dma1_stream6
+ .text._handle_adc
+                0x0800064c        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800064c                _handle_adc
+ .text._handle_can1_tx
+                0x0800065a        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800065a                _handle_can1_tx
+ .text._handle_can1_rx0
+                0x08000668        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000668                _handle_can1_rx0
+ .text._handle_can1_rx1
+                0x08000676        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000676                _handle_can1_rx1
+ .text._handle_can1_sce
+                0x08000684        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000684                _handle_can1_sce
+ .text._handle_exti9_5
+                0x08000692        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000692                _handle_exti9_5
+ .text._handle_tim1_brk_tim9
+                0x080006a0        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080006a0                _handle_tim1_brk_tim9
+ .text._handle_tim1_up_tim10
+                0x080006ae        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080006ae                _handle_tim1_up_tim10
+ .text._handle_tim1_trg_com_tim11
+                0x080006bc        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080006bc                _handle_tim1_trg_com_tim11
+ .text._handle_tim1_cc
+                0x080006ca        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080006ca                _handle_tim1_cc
+ .text._handle_tim2
+                0x080006d8        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080006d8                _handle_tim2
+ .text._handle_tim3
+                0x080006e6        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080006e6                _handle_tim3
+ .text._handle_tim4
+                0x080006f4        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080006f4                _handle_tim4
+ .text._handle_i2c1_ev
+                0x08000702        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000702                _handle_i2c1_ev
+ .text._handle_i2c1_er
+                0x08000710        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000710                _handle_i2c1_er
+ .text._handle_i2c2_ev
+                0x0800071e        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800071e                _handle_i2c2_ev
+ .text._handle_i2c2_er
+                0x0800072c        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800072c                _handle_i2c2_er
+ .text._handle_spi1
+                0x0800073a        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800073a                _handle_spi1
+ .text._handle_spi2
+                0x08000748        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000748                _handle_spi2
+ .text._handle_usart1
+                0x08000756        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000756                _handle_usart1
+ .text._handle_usart2
+                0x08000764        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000764                _handle_usart2
+ .text._handle_usart3
+                0x08000772        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000772                _handle_usart3
+ .text._handle_exti15_10
+                0x08000780        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000780                _handle_exti15_10
+ .text._handle_rtc_alarm
+                0x0800078e        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800078e                _handle_rtc_alarm
+ .text._handle_otg_fs_wkup
+                0x0800079c        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800079c                _handle_otg_fs_wkup
+ .text._handle_tim8_brk_tim12
+                0x080007aa        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080007aa                _handle_tim8_brk_tim12
+ .text._handle_tim8_up_tim13
+                0x080007b8        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080007b8                _handle_tim8_up_tim13
+ .text._handle_tim8_trg_com_tim14
+                0x080007c6        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080007c6                _handle_tim8_trg_com_tim14
+ .text._handle_tim8_cc
+                0x080007d4        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080007d4                _handle_tim8_cc
+ .text._handle_dma1_stream7
+                0x080007e2        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080007e2                _handle_dma1_stream7
+ .text._handle_fsmc
+                0x080007f0        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080007f0                _handle_fsmc
+ .text._handle_sdmmc1
+                0x080007fe        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080007fe                _handle_sdmmc1
+ .text._handle_tim5
+                0x0800080c        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800080c                _handle_tim5
+ .text._handle_spi3
+                0x0800081a        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800081a                _handle_spi3
+ .text._handle_uart4
+                0x08000828        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000828                _handle_uart4
+ .text._handle_uart5
+                0x08000836        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000836                _handle_uart5
+ .text._handle_tim6_dac
+                0x08000844        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000844                _handle_tim6_dac
+ .text._handle_tim7
+                0x08000852        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000852                _handle_tim7
+ .text._handle_dma2_stream0
+                0x08000860        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000860                _handle_dma2_stream0
+ .text._handle_dma2_stream1
+                0x0800086e        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800086e                _handle_dma2_stream1
+ .text._handle_dma2_stream2
+                0x0800087c        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800087c                _handle_dma2_stream2
+ .text._handle_dma2_stream3
+                0x0800088a        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800088a                _handle_dma2_stream3
+ .text._handle_dma2_stream4
+                0x08000898        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000898                _handle_dma2_stream4
+ .text._handle_eth
+                0x080008a6        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080008a6                _handle_eth
+ .text._handle_eth_wkup
+                0x080008b4        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080008b4                _handle_eth_wkup
+ .text._handle_can2_tx
+                0x080008c2        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080008c2                _handle_can2_tx
+ .text._handle_can2_rx0
+                0x080008d0        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080008d0                _handle_can2_rx0
+ .text._handle_can2_rx1
+                0x080008de        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080008de                _handle_can2_rx1
+ .text._handle_can2_sce
+                0x080008ec        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080008ec                _handle_can2_sce
+ .text._handle_otg_fs
+                0x080008fa        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080008fa                _handle_otg_fs
+ .text._handle_dma2_stream5
+                0x08000908        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000908                _handle_dma2_stream5
+ .text._handle_dma2_stream6
+                0x08000916        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000916                _handle_dma2_stream6
+ .text._handle_dma2_stream7
+                0x08000924        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000924                _handle_dma2_stream7
+ .text._handle_usart6
+                0x08000932        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000932                _handle_usart6
+ .text._handle_i2c3_ev
+                0x08000940        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000940                _handle_i2c3_ev
+ .text._handle_i2c3_er
+                0x0800094e        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800094e                _handle_i2c3_er
+ .text._handle_otg_hs_ep1_out
+                0x0800095c        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800095c                _handle_otg_hs_ep1_out
+ .text._handle_otg_hs_ep1_in
+                0x0800096a        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x0800096a                _handle_otg_hs_ep1_in
+ .text._handle_otg_hs_wkup
+                0x08000978        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000978                _handle_otg_hs_wkup
+ .text._handle_otg_hs
+                0x08000986        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000986                _handle_otg_hs
+ .text._handle_dcmi
+                0x08000994        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000994                _handle_dcmi
+ .text._handle_cryp
+                0x080009a2        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080009a2                _handle_cryp
+ .text._handle_hash_rng
+                0x080009b0        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080009b0                _handle_hash_rng
+ .text._handle_fpu
+                0x080009be        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080009be                _handle_fpu
+ .text._handle_uart7
+                0x080009cc        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080009cc                _handle_uart7
+ .text._handle_uart8
+                0x080009da        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080009da                _handle_uart8
+ .text._handle_spi4
+                0x080009e8        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080009e8                _handle_spi4
+ .text._handle_spi5
+                0x080009f6        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x080009f6                _handle_spi5
+ .text._handle_spi6
+                0x08000a04        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000a04                _handle_spi6
+ .text._handle_sai1
+                0x08000a12        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000a12                _handle_sai1
+ .text._handle_lcd_tft
+                0x08000a20        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000a20                _handle_lcd_tft
+ .text._handle_lcd_tft_er
+                0x08000a2e        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000a2e                _handle_lcd_tft_er
+ .text._handle_dma2d
+                0x08000a3c        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000a3c                _handle_dma2d
+ .text._handle_sai2
+                0x08000a4a        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000a4a                _handle_sai2
+ .text._handle_quadspi
+                0x08000a58        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000a58                _handle_quadspi
+ .text._handle_lp_timer_1
+                0x08000a66        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000a66                _handle_lp_timer_1
+ .text._handle_hdmi_cec
+                0x08000a74        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000a74                _handle_hdmi_cec
+ .text._handle_i2c4_ev
+                0x08000a82        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000a82                _handle_i2c4_ev
+ .text._handle_i2c4_er
+                0x08000a90        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000a90                _handle_i2c4_er
+ .text._handle_spdifrx
+                0x08000a9e        0xe C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+                0x08000a9e                _handle_spdifrx
+
+.glue_7         0x08000aac        0x0
+ .glue_7        0x08000aac        0x0 linker stubs
+
+.glue_7t        0x08000aac        0x0
+ .glue_7t       0x08000aac        0x0 linker stubs
+
+.vfp11_veneer   0x08000aac        0x0
+ .vfp11_veneer  0x08000aac        0x0 linker stubs
+
+.v4_bx          0x08000aac        0x0
+ .v4_bx         0x08000aac        0x0 linker stubs
+
+.iplt           0x08000aac        0x0
+ .iplt          0x08000aac        0x0 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+
+.rel.dyn        0x08000aac        0x0
+ .rel.iplt      0x08000aac        0x0 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+
+.rodata
+ *(.rodata*)
+
+.data           0x20010000        0x8 load address 0x08000aac
+                0x20010000                        _sdata = .
+ *(.first_data)
+ *(.data SORT_BY_NAME(.data.*))
+ .data.RCC      0x20010000        0x4 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .data.SYST     0x20010004        0x4 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+                0x20010008                        _edata = .
+                0x08000aac                        _sidata = LOADADDR (.data)
+
+.igot.plt       0x20010008        0x0 load address 0x08000ab4
+ .igot.plt      0x20010008        0x0 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+
+.bss            0x20010008        0x8 load address 0x08000ab4
+                0x20010008                        _sbss = .
+ *(.bss SORT_BY_NAME(.bss.*) COMMON)
+ .bss.g_time_cnt_ms
+                0x20010008        0x4 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+ .bss.tickcnt   0x2001000c        0x4 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+                0x2001000c                tickcnt
+                0x20010010                        _ebss = .
+                0x20010010                        . = ALIGN (0x8)
+                0x20010010                        _end = .
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .ARM.attributes
+                0x00000034       0x34 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+OUTPUT(firmware.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x16ac
+ .debug_info    0x00000000      0xc76 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .debug_info    0x00000c76      0xa36 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+
+.debug_abbrev   0x00000000      0x2f1
+ .debug_abbrev  0x00000000      0x221 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .debug_abbrev  0x00000221       0xd0 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+
+.debug_aranges  0x00000000      0x3f8
+ .debug_aranges
+                0x00000000       0x80 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .debug_aranges
+                0x00000080      0x378 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+
+.debug_rnglists
+                0x00000000      0x2f0
+ .debug_rnglists
+                0x00000000       0x5b C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .debug_rnglists
+                0x0000005b      0x295 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+
+.debug_macro    0x00000000     0x106f
+ .debug_macro   0x00000000       0x97 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .debug_macro   0x00000097      0xac6 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .debug_macro   0x00000b5d       0x22 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .debug_macro   0x00000b7f       0x8e C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .debug_macro   0x00000c0d       0x51 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .debug_macro   0x00000c5e      0x103 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .debug_macro   0x00000d61       0x6a C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .debug_macro   0x00000dcb      0x1df C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .debug_macro   0x00000faa       0x22 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .debug_macro   0x00000fcc       0x10 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .debug_macro   0x00000fdc       0x93 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+
+.debug_line     0x00000000      0xf8a
+ .debug_line    0x00000000      0x467 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .debug_line    0x00000467      0xb23 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+
+.debug_str      0x00000000     0x4c1b
+ .debug_str     0x00000000     0x4c1b C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+                               0x4d84 (size before relaxing)
+ .debug_str     0x00004c1b     0x48ae C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+
+.comment        0x00000000       0x44
+ .comment       0x00000000       0x44 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+                                 0x45 (size before relaxing)
+ .comment       0x00000044       0x45 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
+
+.debug_frame    0x00000000      0xf74
+ .debug_frame   0x00000000      0x1e4 C:\Users\Kozma\AppData\Local\Temp\ccwoqihL.o
+ .debug_frame   0x000001e4      0xd90 C:\Users\Kozma\AppData\Local\Temp\ccrPIrxD.o
